@@ -1,3 +1,4 @@
+as im reading this through 10 months later i realise how uhh *messy* this is, sorry!
 # Material Selector module for roblox plug-ins
 ## Set-up
 You can find the plugin here: [Creator Store](https://create.roblox.com/store/asset/93888406964695/MaterialSelector-module-for-plugins).
